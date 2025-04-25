@@ -1,4 +1,4 @@
-# 🔍 Logo Verification CLI
+# 🔍 ZSK reparser CLI
 
 A powerful interactive CLI tool built with **Node.js**, **Inquirer**, and **TypeScript-compatible JS** to review and mark logo mismatches across various app IDs. It loads parsed data from a JSON file and provides a visual workflow for reviewing logo URLs, marking them as done/undone, and optionally opening the logo URLs in your browser automatically.
 
