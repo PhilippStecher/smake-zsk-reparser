@@ -32,8 +32,8 @@ A powerful interactive CLI tool built with **Node.js**, **Inquirer**, and **Type
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-user/smake-zsk-reparser.git
-cd logo-verification-cli
+git clone https://github.com/PhilippStecher/smake-zsk-reparser.git
+cd smake-zsk-reparser
 nvm use 22
 npm install
 ```
@@ -69,13 +69,19 @@ Your `new_mismatch.json` must follow this structure:
 ```json
 [
     {
-        "app_id": 123,
-        "logo_id": 456,
+        "app_id": 10808,
+        "logo_id": 1697203,
+        "zsk_version": 3,
+        "color_assignments": 1,
+        "zsk_needles": 2
         "done": false
     },
     {
-        "app_id": 789,
-        "logo_id": 321
+        "app_id": 10808,
+        "logo_id": 1697203,
+        "zsk_version": 3,
+        "color_assignments": 1,
+        "zsk_needles": 2
     }
 ]
 ```
