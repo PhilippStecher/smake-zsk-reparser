@@ -1,6 +1,6 @@
 export type AppConfigEntry = {
     base_url: string;
-    slug: string; // to be filled later
+    slug: string;
     name: string;
 };
 

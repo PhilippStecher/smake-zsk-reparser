@@ -3,7 +3,7 @@ import type { AppConfig } from "../types/AppConfig";
 export const appConfigs: AppConfig = {
     10810: {
         base_url: "https://merchants.smake.com",
-        slug: "strauss-sta-de", // fill later
+        slug: "strauss-sta-de",
         name: "Strauss STA DE",
     },
     10809: {
