@@ -16,19 +16,19 @@ export const appConfigs: AppConfig = {
     10808: {
         system_url: "https://system.strauss.smake.eu",
         base_url: "https://merchants.strauss.smake.eu",
-        slug: "strauss-prod-de",
+        slug: "de",
         name: "Strauss PROD DE",
     },
     10913: {
         system_url: "https://system.strauss.smake.eu",
         base_url: "https://merchants.strauss.smake.eu",
-        slug: "strauss-prod-at",
+        slug: "at",
         name: "Strauss PROD AT",
     },
     10937: {
         system_url: "https://system.strauss.smake.eu",
         base_url: "https://merchants.strauss.smake.eu",
-        slug: "strauss-prod-ch",
+        slug: "ch",
         name: "Strauss PROD CH",
     },
     10002: {
