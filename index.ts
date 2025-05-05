@@ -73,7 +73,7 @@ async function main() {
 
     if (loginAppId) {
         const selectedApp = appConfigs[selectedAppId];
-        await open(`https://system.smake.com/en/apps?q=${selectedApp.slug}`);
+        await open(`${selectedApp.system_url}/en/apps?q=${selectedApp.slug}`);
 
         const { confirmStart }: { confirmStart: boolean } =
             await inquirer.prompt([
