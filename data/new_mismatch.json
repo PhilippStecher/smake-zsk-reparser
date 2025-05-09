@@ -811,7 +811,8 @@
     "logo_id": 1346293,
     "zsk_version": 1,
     "color_assignments": 11,
-    "zsk_needles": 12
+    "zsk_needles": 12,
+    "done": true
   },
   {
     "app_id": 10808,
