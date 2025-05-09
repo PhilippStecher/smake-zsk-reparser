@@ -978,21 +978,24 @@
     "logo_id": 1356534,
     "zsk_version": 1,
     "color_assignments": 3,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1356602,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1356699,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
@@ -1006,154 +1009,176 @@
     "logo_id": 1357619,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1357629,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1357850,
     "zsk_version": 1,
     "color_assignments": 6,
-    "zsk_needles": 7
+    "zsk_needles": 7,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1357870,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1357883,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1357900,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1357913,
     "zsk_version": 1,
     "color_assignments": 6,
-    "zsk_needles": 7
+    "zsk_needles": 7,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1358029,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1358030,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1358119,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1358667,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1358686,
     "zsk_version": 1,
     "color_assignments": 3,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1358768,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1359916,
     "zsk_version": 1,
     "color_assignments": 3,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1359921,
     "zsk_version": 1,
     "color_assignments": 4,
-    "zsk_needles": 5
+    "zsk_needles": 5,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360249,
     "zsk_version": 1,
     "color_assignments": 3,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360253,
     "zsk_version": 1,
     "color_assignments": 3,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360471,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360542,
     "zsk_version": 1,
     "color_assignments": 5,
-    "zsk_needles": 6
+    "zsk_needles": 6,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360626,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360742,
     "zsk_version": 1,
     "color_assignments": 4,
-    "zsk_needles": 5
+    "zsk_needles": 5,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1360963,
     "zsk_version": 1,
     "color_assignments": 3,
-    "zsk_needles": 4
+    "zsk_needles": 4,
+    "done": true
   },
   {
     "app_id": 10808,
@@ -1174,49 +1199,56 @@
     "logo_id": 1361112,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1361116,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1361965,
     "zsk_version": 1,
     "color_assignments": 4,
-    "zsk_needles": 5
+    "zsk_needles": 5,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1362128,
     "zsk_version": 1,
     "color_assignments": 1,
-    "zsk_needles": 2
+    "zsk_needles": 2,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1362211,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1362214,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
     "logo_id": 1362381,
     "zsk_version": 1,
     "color_assignments": 2,
-    "zsk_needles": 3
+    "zsk_needles": 3,
+    "done": true
   },
   {
     "app_id": 10808,
