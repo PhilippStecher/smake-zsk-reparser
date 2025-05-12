@@ -2,15 +2,15 @@ import type { AppConfig } from "../types/AppConfig";
 
 export const appConfigs: AppConfig = {
     10810: {
-        system_url: "https://system.smake.com",
-        base_url: "https://merchants.smake.com",
-        slug: "strauss-sta-de",
+        system_url: "https://system.strauss-sta.smake.eu",
+        base_url: "https://merchants.strauss-sta.smake.eu",
+        slug: "de",
         name: "Strauss STA DE",
     },
     10809: {
-        system_url: "https://system.smake.com",
-        base_url: "https://merchants.smake.com",
-        slug: "strauss-qa-de",
+        system_url: "https://system.strauss-qa.smake.eu",
+        base_url: "https://merchants.strauss-qa.smake.eu",
+        slug: "de",
         name: "Strauss QA DE",
     },
     10808: {
