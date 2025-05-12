@@ -10,7 +10,7 @@ export const appConfigs: AppConfig = {
     10809: {
         system_url: "https://system.strauss-qa.smake.eu",
         base_url: "https://merchants.strauss-qa.smake.eu",
-        slug: "de",
+        slug: "strauss-qa-de",
         name: "Strauss QA DE",
     },
     10808: {
